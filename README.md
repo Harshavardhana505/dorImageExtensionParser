@@ -4,6 +4,14 @@
 
 This format was created for developers and creators who want full control over the pixel pipeline without relying on bloated standards, compression artifacts, or locked-down tools.
 
+There is a parser included with this, with the following features:
+
+* Importing of any image type, including .dor
+* Convertion to HTML canvas efficiently regardless of resolution size.
+* 20x image zoom and movement
+* Each pixel can be edited with a color picker, pen tool and eyedropper.
+* Ctrl + Z to undo changes one step at a time
+* Can export image in original quality efficiently to .png .jpeg and .dor
 ---
 
 ## Format Overview
